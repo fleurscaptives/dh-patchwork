@@ -6,7 +6,22 @@ This repository brings together practical work developed during my academic stud
 
 ## Projects
 
-### 1. Web Design and Development
+### 1. HTR on Occitan Songbooks
+```text
+provençal-htr
+```
+A project exploring Handwritten Text Recognition applied to medieval Occitan songbooks (*chansonniers*).
+
+The work involved experimenting with HTR workflows for the transcription of medieval manuscript witnesses, including the training and fine-tuning of a custom HTR model  (*Estense_Medieval_Scripts*) using other models already available on Transkribus (*Old Occitan Handwriting* and *Medieval_Scripts_M2.4*). Model performance was evaluated and improved through iterative fine-tuning, with particular attention to Word Error Rate (WER) and Character Error Rate (CER).
+Further information can be found in the presentation uploaded in the directory. 
+
+**Tools and methods**: Transkribus, HTR model training, fine-tuning, WER and CER evaluation.
+<br/>
+**Collection**: https://app.transkribus.org/collection/231127
+
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/abd5ae6c-b539-4791-9eff-50fca03005b1" />
+
+### 2. Web Design and Development
 ```text
 uzumaki-web
 ```
@@ -17,20 +32,6 @@ The project explores front-end web technologies and JavaScript-based interactivi
 **Technologies:** HTML, CSS, JavaScript.
 
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/2192918a-de6d-45ff-b75a-d90a2b181803" />
-
-### 2. HTR on Occitan Songbooks
-```text
-provençal-htr
-```
-A project exploring Handwritten Text Recognition applied to medieval Occitan songbooks (*chansonniers*).
-
-The work involved experimenting with HTR workflows for the transcription of medieval manuscript witnesses, including the training and fine-tuning of a custom HTR model  (*Estense_Medieval_Scripts*) using other models already available on Transkribus (*Old Occitan Handwriting* and *Medieval_Scripts_M2.4*). Model performance was evaluated and improved through iterative fine-tuning, with particular attention to Word Error Rate (WER) and Character Error Rate (CER).
-Further information can be found in the presentation uploaded in the directory. 
-
-**Tools and methods**: Transkribus, HTR model training, fine-tuning, WER and CER evaluation.
-**Collection**: https://app.transkribus.org/collection/231127
-
-<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/abd5ae6c-b539-4791-9eff-50fca03005b1" />
 
 ### 3. Digital Publishing
 ```text
@@ -44,6 +45,4 @@ Created using Adobe Illustrator, the project explores interactive digital storyt
 
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/08673124-2aef-44e6-8efe-7be6dd400fed" />
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/0d79b65b-7fff-4f45-82e5-90832ddbb363" />
-
-
 
