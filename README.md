@@ -16,6 +16,8 @@ The project explores front-end web technologies and JavaScript-based interactivi
 
 **Technologies:** HTML, CSS, JavaScript.
 
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/2192918a-de6d-45ff-b75a-d90a2b181803" />
+
 ### 2. HTR on Occitan Songbooks
 ```text
 provençal-htr
@@ -28,12 +30,20 @@ The project explored the challenges of applying automated text recognition to me
 
 **Tools and methods**: Transkribus, HTR model training, fine-tuning, WER and CER evaluation.
 
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/abd5ae6c-b539-4791-9eff-50fca03005b1" />
+
 ### 3. Digital Publishing
 ```text
 frog-princess-ed
 ```
-An interactive digital edition of the Russian folktale The Frog Princess (Tsarevna-Lyagushka), developed as part of a university assignment.
+An interactive digital edition of the Russian folktale The Frog Princess (*Tsarevna-Lyagushka*), developed as part of a university assignment.
 
 Created using Adobe Illustrator, the project explores interactive digital storytelling and editorial design, combining visual elements and interactive features to enhance the reading experience.
 
 **Tools:** Adobe Illustrator.
+
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/08673124-2aef-44e6-8efe-7be6dd400fed" />
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/0d79b65b-7fff-4f45-82e5-90832ddbb363" />
+
+
+
