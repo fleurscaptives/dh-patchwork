@@ -21,6 +21,7 @@ Further information can be found in the presentation uploaded in the directory.
 **Collection**: https://app.transkribus.org/collection/231127
 
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/abd5ae6c-b539-4791-9eff-50fca03005b1" />
+<br/>
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/e7e1b326-4f17-4077-8b65-06491ed47a80" />
 
 
