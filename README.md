@@ -24,11 +24,11 @@ provençal-htr
 ```
 A project exploring Handwritten Text Recognition applied to medieval Occitan songbooks (*chansonniers*).
 
-The work involved experimenting with HTR workflows for the transcription of medieval manuscript witnesses, including the training and fine-tuning of a custom HTR model using Transkribus. Model performance was evaluated and improved through iterative fine-tuning, with particular attention to Word Error Rate (WER) and Character Error Rate (CER).
-
-The project explored the challenges of applying automated text recognition to medieval manuscripts, particularly in relation to palaeographical variability and historical handwriting.
+The work involved experimenting with HTR workflows for the transcription of medieval manuscript witnesses, including the training and fine-tuning of a custom HTR model  (*Estense_Medieval_Scripts*) using other models already available on Transkribus (*Old Occitan Handwriting* and *Medieval_Scripts_M2.4*). Model performance was evaluated and improved through iterative fine-tuning, with particular attention to Word Error Rate (WER) and Character Error Rate (CER).
+Further information can be found in the presentation uploaded in the directory. 
 
 **Tools and methods**: Transkribus, HTR model training, fine-tuning, WER and CER evaluation.
+**Collection**: https://app.transkribus.org/collection/231127
 
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/abd5ae6c-b539-4791-9eff-50fca03005b1" />
 
